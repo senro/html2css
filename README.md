@@ -3,18 +3,18 @@ html2css
 
 let you write emmet css in html<br>
 
-html2css ¿ÉÒÔÈÃÄãÔÚhtml±êÇ©Àï¶¨Òåemmet¼òĞ´css, <br>
-ÀıÈç<br>
-...javascript
-<div class="bg" data-css="mw967+bg:bg.jpg">
-...
-µ¼³öºó<br>
-µÃµ½È¥³ıdata-cssÊôĞÔºóµÄ½á¹¹<div class="bg">ºÍ¶ÔÓ¦µÄcssÎÄ¼ş<br>
-...css
-.bg {
-   min-width: 967px ;
-   background: url(../images/bg.jpg) no-repeat ;
-   } 
-...
-Í¬Ê±Éú³ÉÒ»¸ö±¸·İ½á¹¹£¬ÒÔ"Ô­htmlÎÄ¼şÃû"-beforeExportÃüÃû¡£<br>
-¾ßÌåÊ¹ÓÃÓÃ·¨¿ÉÒÔ·ÃÎÊhttp://senro.cn/html2css/ ²é¿´£¡<br>
+html2css å¯ä»¥è®©ä½ åœ¨htmlæ ‡ç­¾é‡Œå®šä¹‰emmetç®€å†™css, <br>
+ä¾‹å¦‚<br>
+
+\<div class="bg" data-css="mw967+bg:bg.jpg">
+
+å¯¼å‡ºå<br>
+å¾—åˆ°å»é™¤data-csså±æ€§åçš„ç»“æ„<div class="bg">å’Œå¯¹åº”çš„cssæ–‡ä»¶<br>
+
+\.bg {<br>
+   min-width: 967px ;<br>
+   background: url(../images/bg.jpg) no-repeat ;<br>
+  } <br>
+
+åŒæ—¶ç”Ÿæˆä¸€ä¸ªå¤‡ä»½ç»“æ„ï¼Œä»¥"åŸhtmlæ–‡ä»¶å"-beforeExportå‘½åã€‚<br>
+å…·ä½“ä½¿ç”¨ç”¨æ³•å¯ä»¥è®¿é—®http://senro.cn/html2css/ æŸ¥çœ‹ï¼<br>
