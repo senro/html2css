@@ -1,0 +1,5 @@
+1. modify html2css.bat's installed path
+
+2. copy html2css.bat to "C:\Users\Administrator\SendTo"
+
+then you can use html2css with right click file ,then send to html2css, well, this is faster!
